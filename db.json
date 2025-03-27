@@ -1,34 +1,46 @@
 {
-  "characters": [
+  "trees": [
+    {
+      "id": "1",
+      "name": "Oak Tree",
+      "scientific_name": "Quercus robur",
+      "description": "The English oak is a majestic, long-lived tree with lobed leaves and produces acorns. It's known for supporting a wide range of wildlife.",
+      "image_url": "https://i.pinimg.com/736x/a9/d9/5d/a9d95d9f4803cc2f10f283e55e66bf18.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Maple Tree",
+      "scientific_name": "Acer species",
+      "description": "Maples are known for their distinctive lobed leaves and vibrant autumn colors. They vary in size from shrubs to large trees.",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vvUydgY3JGpDQ8aXNRAHtM.jpg"
+    },
     {
       "id": "3",
-      "name": "Ms. Zebra",
-      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
-      "votes": 0
+      "name": "Pine Tree",
+      "scientific_name": "Pinus species",
+      "description": "Pines are evergreen conifers with needle-like leaves, commonly found in forests worldwide. They are valued for their timber and resin.",
+      "image_url": "https://i.pinimg.com/736x/d6/a1/88/d6a188eeafb4b4071fb995e3cf2fc092.jpg"
     },
     {
       "id": "4",
-      "name": "Dr. Lion",
-      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
-      "votes": 0
+      "name": "Birch Tree",
+      "scientific_name": "Betula species",
+      "description": "Birches are medium-sized deciduous trees with distinctive white bark and serrated leaves. They are often found in temperate climates.",
+      "image_url": "https://i.pinimg.com/736x/49/2d/79/492d79588970c513e6156f1d248224b1.jpg"
     },
     {
-      "id": "5",
-      "name": "Mme. Panda",
-      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
-      "votes": 0
+      "id": "6",
+      "name": "Cherry Tree",
+      "scientific_name": "Prunus species",
+      "description": "Cherry trees are celebrated for their beautiful spring blossoms and, in some varieties, for producing edible cherries.",
+      "image_url": "https://i.pinimg.com/736x/4d/15/e7/4d15e7cc87baa52f9db47b8384d5304d.jpg"
     },
     {
-      "id": "79a1",
-      "name": "Mx.Monkey",
-      "image": "https://media.giphy.com/media/l0HU7GmObZ2BtYZvW/giphy.gif?cid=ecf05e47qndmt1xvtl9p978r7ybk54jeojmvc6c3i0xtbp7b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
-    },
-    {
-      "id": "704e",
-      "name": "Mr.Cute",
-      "image": "https://media.giphy.com/media/w20wYXctkVIZO/giphy.gif?cid=790b7611l9grx1ronrashb99f92408y95f8sn5m55iaiq7vy&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
+      "id": "0842",
+      "name": "Bristlecone Pine",
+      "description": "big tree",
+      "image_url": "https://i.pinimg.com/736x/ae/4b/19/ae4b193cd4ee57bebe998ec82e33aeb7.jpg"
     }
   ]
 }
+
